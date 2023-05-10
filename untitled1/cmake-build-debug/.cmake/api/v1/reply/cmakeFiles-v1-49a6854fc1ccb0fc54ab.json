@@ -733,63 +733,13 @@
 		{
 			"isGenerated" : true,
 			"path" : "cmake-build-debug/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/usr/bin/clion-2023.1/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindOpenGL.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/usr/bin/clion-2023.1/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/usr/bin/clion-2023.1/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageMessage.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/usr/bin/clion-2023.1/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindGLUT.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/usr/bin/clion-2023.1/bin/cmake/linux/x64/share/cmake-3.25/Modules/SelectLibraryConfigurations.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/usr/bin/clion-2023.1/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/usr/bin/clion-2023.1/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageMessage.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/usr/bin/clion-2023.1/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPkgConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/usr/bin/clion-2023.1/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/usr/bin/clion-2023.1/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageMessage.cmake"
 		}
 	],
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/bcozendey/GIT/UERJ/Computacao Grafica/exercicio2/cmake-build-debug",
-		"source" : "/home/bcozendey/GIT/UERJ/Computacao Grafica/exercicio2"
+		"build" : "/home/bcozendey/GIT/UERJ/computacao_grafica/untitled1/cmake-build-debug",
+		"source" : "/home/bcozendey/GIT/UERJ/computacao_grafica/untitled1"
 	},
 	"version" : 
 	{

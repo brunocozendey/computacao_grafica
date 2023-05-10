@@ -1,0 +1,3 @@
+/home/bcozendey/GIT/UERJ/computacao_grafica/ex4/cmake-build-debug/CMakeFiles/ex4.dir
+/home/bcozendey/GIT/UERJ/computacao_grafica/ex4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bcozendey/GIT/UERJ/computacao_grafica/ex4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

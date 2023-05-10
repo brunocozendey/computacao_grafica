@@ -1,4 +1,4 @@
-# Install script for directory: /home/bcozendey/GIT/UERJ/Computacao Grafica/exercicio2
+# Install script for directory: /home/bcozendey/GIT/UERJ/computacao_grafica/exercicio2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/bcozendey/GIT/UERJ/Computacao Grafica/exercicio2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/bcozendey/GIT/UERJ/computacao_grafica/exercicio2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
